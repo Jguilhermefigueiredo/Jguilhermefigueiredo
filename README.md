@@ -42,7 +42,7 @@ Sempre buscando criar soluções escaláveis, eficientes e bem estruturadas. �
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-guilherme-figueiredo-cavalcante-2b5434254/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joseguilherme.figueiredoc.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joseguilherme.figueiredoc@gmail.com)
 
 ---
 
